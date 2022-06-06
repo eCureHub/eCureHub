@@ -234,164 +234,42 @@
 
 
             <!-- Gallery Slide start -->
-            <div class="container-fluid">
+            <div class="container-fluid pb-5">
                 <div class="row">
                     <div class="5block-carusel owl-carousel nav-disable dot-disable owl-loaded owl-drag">
 
-
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/medinova logo.png" alt="medinova logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/medinova logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/medinova logo.png" alt="medinova logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/evercare hospital logo.png" alt="evercare hospital logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="assets/images/doctor_2/1.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/evercare hospital logo.png" alt="evercare hospital logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/ibn sina logo.png" alt="ibn sina logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/ibn sina logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/ibn sina logo.png" alt="ibn sina logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/icddrb logo.png" alt="icddrb logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/icddrb logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/icddrb logo.png" alt="icddrb logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/bsm logo.png" alt="bsm logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/bsm logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/bsm logo.png" alt="bsm logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/labaid logo.png" alt="labaid logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/labaid logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/labaid logo.png" alt="labaid logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/padma diagnostic logo.png" alt="padma diagnostic logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/padma diagnostic logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/padma diagnostic logo.png" alt="padma diagnostic logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/brb hospital logo.png" alt="brb hospital logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/brb hospital logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/brb hospital logo.png" alt="brb hospital logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/popular diagnostic center logo.png" alt="popular diagnostic center logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/popular diagnostic center logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/popular diagnostic center logo.png" alt="popular diagnostic center logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/square hospital logo.png" alt="square hospital logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/square hospital logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/square hospital logo.png" alt="square hospital logo">
                         </div>
                         <div class="item">
-                            <div class="image-gallery position-relative">
-                                <div class="hover-classic-layer overlay-primary hover-text-PushUpBottom">
-                                    <img class="img-thumbnail" src="/assets/labs/united hospital logo.png" alt="united hospital logo">
-                                    <div class="position-absolute xy-center">
-                                        <div class="text-center overflow-hidden">
-                                            <a class="text-white second-push-up transation" data-fancybox="img-view" href="/assets/labs/united hospital logo.png">
-                                                <span class="middle fa-2x"><i class="fa fa-arrows-alt"></i></span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <img style="display: block; width: 100px; height: auto;" class="img-thumbnail" src="/assets/labs/united hospital logo.png" alt="united hospital logo">
                         </div>
                     </div>
                 </div>
